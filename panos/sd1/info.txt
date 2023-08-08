@@ -1,0 +1,1 @@
+set of pano images for url-based stable diffusion ingestion
